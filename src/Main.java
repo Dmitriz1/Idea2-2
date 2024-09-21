@@ -16,7 +16,8 @@ public class Main {
 
         if (added_sum >= 1000) {
             bonus = added_sum / 100;
-        } else {
+        } 
+        else {
             bonus = 0;
         }
 
